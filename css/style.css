@@ -416,6 +416,9 @@ p {
 
   border-radius: 50px;
 }
+.Newslater-form form input:focus {
+ outline: 0;
+}
 
 .Newslater-form button {
   border: none;
